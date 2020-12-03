@@ -2,7 +2,7 @@
 #' input Genus and return subfamily accossiated , built with Genus of Casaleia
 #' 
 #' @param  data data what is being used (default = FossilAntsData)
-#' @param Genus== "" need to put whatever Genus wanting to full out of here
+#' @param Genus== "" need to put whatever Genus wanting to pull out of here
 #' @return  print of the subfamily accossiated (chr)
 #' 
 #' @export
